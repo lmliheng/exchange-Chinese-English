@@ -1,7 +1,7 @@
 # exchange-Chinese-English
 实现代码里面中文输入法的字母字符自动转化为英文
 ## Hello,l am Heng!
-![image]()
+![image](https://github.com/lmliheng/exchange-Chinese-English/blob/main/readme.png)
 -- 来自小恒的小工具，愿你的代码永远没有debug烦恼
 ## 小恒提醒
 (1)适用人群:开发工具无代码警告或报错的长期开发人员
